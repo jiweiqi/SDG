@@ -8,6 +8,7 @@ UN SUSTAINABLE DEVELOPMENT GOALS
 
 ## PDF
 
+* [The Sustainable Development Goals Report 2019](https://unstats.un.org/sdgs/report/2019/The-Sustainable-Development-Goals-Report-2019.pdf)
 * [Collection of Reports](https://www.cn.undp.org/content/china/zh/home/sustainable-development-goals/resources.html)
 * [UNDP Support to the Implementation of the Sustainable Development Goals](https://www.undp.org/content/undp/en/home/librarypage/sustainable-development-goals/undp-support-to-the-implementation-of-the-2030-agenda/)
 * [The Sustainable Development Goals are Coming to Life – Stories of Country Implementation and UN Support](https://www.undp.org/content/undp/en/home/librarypage/sustainable-development-goals/the-sustainable-development-goals-are-coming-to-life.html)
